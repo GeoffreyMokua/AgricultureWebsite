@@ -83,7 +83,7 @@ padding: 1.5rem;
     flex-direction: column;
 }
 .firstcontents>h2{
-    font-size: 50px;
+    font-size: 40px;
     padding-top: 6rem;
     width: 50%;
     font-weight: bolder;
@@ -415,10 +415,9 @@ padding: 1.5rem;
     margin-top: 1rem;
 }
 .ig>img{
-    width: 18%;
+    width: 50%;
     margin-right: 2rem;
     border-radius: 5px;
-    filter: invert(1);
 }
 .tworight{
     display: grid;
